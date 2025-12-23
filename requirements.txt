@@ -1,0 +1,16 @@
+# Django and core dependencies
+Django==5.2.1
+djangorestframework==3.15.2
+
+# JWT Authentication
+djangorestframework-simplejwt==5.3.1
+
+# CORS Headers for cross-origin requests
+django-cors-headers==4.5.0
+
+# Pillow for image handling (required for ImageField)
+Pillow==10.4.0
+
+# Python environment
+python-decouple==3.8
+
